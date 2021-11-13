@@ -48,7 +48,6 @@ public class ApplicationStartup {
 				.settings(settings)
 				.build();
 		server.start();
-		
 	}
 	
 	public static class DecoratedPluginEntryLoader extends PluginEntryLoader {

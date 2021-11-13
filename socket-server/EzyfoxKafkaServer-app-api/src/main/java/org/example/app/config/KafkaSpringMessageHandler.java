@@ -13,11 +13,10 @@ public class KafkaSpringMessageHandler {
     @Autowired
     private KafkaTemplate<String, String> kafkaTemplate;
 
-
     @KafkaListener(topics = "message", groupId = "group-id")
     public void listen(String data) {
         ObjectMapper objectMapper = new ObjectMapper();
-        Message kafkaMessage = new Message();
+        Message kafkaMessage;
         try {
             kafkaMessage = objectMapper.readValue(data, Message.class);
         } catch (JsonProcessingException e) {

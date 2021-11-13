@@ -58,6 +58,7 @@ public class KafkaConsumerConfig implements EzyBeanConfig {
     }
     @Override
     public void config() {
+        System.out.println("Run ezyfox-server config");
         SpringApplication.run(KafkaConsumerConfig.class);
     }
 
