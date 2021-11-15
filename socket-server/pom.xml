@@ -8,9 +8,9 @@
 		<version>1.0.1</version>
 	</parent>
 	
-	<groupId>org.example</groupId>
-	<artifactId>EzyfoxKafkaServer</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<groupId>org.youngmonkeys.org</groupId>
+	<artifactId>socket-server</artifactId>
+	<version>1.0.0</version>
 	<packaging>pom</packaging>
 	
 	<name>EzyfoxKafkaServer</name>

@@ -1,0 +1,8 @@
+.git
+.idea
+.settings
+*.iml
+*/target/**
+*/deploy/**
+*/.jar
+socket-server/EzyfoxKafkaServer-plugin/${env.EZYFOX_SERVER_HOME}/plugins/EzyfoxKafkaServer-plugin/EzyfoxKafkaServer-plugin-1.0-SNAPSHOT.jar
