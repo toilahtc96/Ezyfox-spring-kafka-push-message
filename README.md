@@ -51,8 +51,7 @@ bash ./console.sh
 console.bat
 ```
 
-# Start UI client
-## Start VueJS web client
+#  Start Vue.js web client
 1. Move to folder client-vuejs
 2. Run npm i, you get an error with vuex you can run npm install vuex@next --save
 3. Run npm start and open http://localhost:3001/
