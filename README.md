@@ -1,4 +1,4 @@
-# Kafka-Spring-Ezyfox-Push-Message
+# Ezyfox-spring-kafka-push-message
 
 # Spring-kafka-server
 A small system to receiver message from endpoint user and send to kafka topic 
