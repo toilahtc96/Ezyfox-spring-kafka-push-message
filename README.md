@@ -82,5 +82,5 @@ Received Message in group - group-id:message content test
 ```
 On the vue client in browser you can see
 <p align="left">
-  <img src="https://github.com/toilahtc96/Kafka-Spring-Ezyfox-Push-Message/blob/main/public/image/vue-client-result.png" width="500" alt="accessibility text">
+  <img src="https://github.com/toilahtc96/Kafka-Spring-Ezyfox-Push-Message/blob/main/public/image/vue-client-result.png" width="100%" alt="accessibility text">
 </p>
