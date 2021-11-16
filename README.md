@@ -7,7 +7,7 @@ A small system to receiver message from endpoint user and send to kafka topic
 2. Maven 3
 3. Kafka
 # Architecture
-<img src="https://github.com/toilahtc96/Kafka-Spring-Ezyfox-Push-Message/blob/main/public/image/so-do.png" />
+<img src="https://github.com/toilahtc96/Kafka-Spring-Ezyfox-Push-Message/blob/main/public/image/so-do-kafka.png" />
 # How to run?
 ## Start kafka
 
